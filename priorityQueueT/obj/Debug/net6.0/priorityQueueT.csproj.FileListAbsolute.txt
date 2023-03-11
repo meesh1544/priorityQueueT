@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\bin\Debug\net6.0\priorityQueueT.exe
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\bin\Debug\net6.0\priorityQueueT.deps.json
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\bin\Debug\net6.0\priorityQueueT.runtimeconfig.json
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\bin\Debug\net6.0\priorityQueueT.dll
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\bin\Debug\net6.0\priorityQueueT.pdb
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.AssemblyInfo.cs
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.dll
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\refint\priorityQueueT.dll
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.pdb
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\priorityQueueT.genruntimeconfig.cache
+C:\Users\meesh\source\repos\priorityQueueT\priorityQueueT\obj\Debug\net6.0\ref\priorityQueueT.dll
